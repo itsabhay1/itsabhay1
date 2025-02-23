@@ -16,10 +16,6 @@
 - 💬 Ask me about **Full Stack Development** and **Software Development**
 - ⚡ Fun fact: I can debug code faster than I can debug my life decisions 😄
 
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=itsabhay1&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Abhay's Github Stats">
-</div>
-
 ### 🛠️ Technology Stack
 
 <div align="center">
